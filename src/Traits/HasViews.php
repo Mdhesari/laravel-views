@@ -16,7 +16,7 @@ trait HasViews
      * @param string|null $localKey
      * @return \Illuminate\Database\Eloquent\Relations\MorphMany
      */
-    abstract public function morphMany($related, $name, $type = null, $id = null, $localKey = null): \Illuminate\Database\Eloquent\Relations\MorphMany;
+    abstract public function morphMany($related, $name, $type = null, $id = null, $localKey = null);
 
     public function views(): \Illuminate\Database\Eloquent\Relations\MorphMany
     {
