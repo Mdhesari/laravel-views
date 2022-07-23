@@ -1,10 +1,10 @@
-# Very short description of the package
+# Laravel Views
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/mdhesari/laravel-views.svg?style=flat-square)](https://packagist.org/packages/mdhesari/laravel-views)
 [![Total Downloads](https://img.shields.io/packagist/dt/mdhesari/laravel-views.svg?style=flat-square)](https://packagist.org/packages/mdhesari/laravel-views)
 ![GitHub Actions](https://github.com/mdhesari/laravel-views/actions/workflows/main.yml/badge.svg)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+Simple Laravel Views.
 
 ## Installation
 
